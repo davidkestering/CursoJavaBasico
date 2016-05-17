@@ -35,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/curso-java-basico/src/com/davidkestering/cursojava/aula43exercicios/ContaBancaria.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -868,12 +868,20 @@
       <workItem from="1463399918751" duration="1034000" />
       <workItem from="1463484647540" duration="14000" />
       <workItem from="1463484830702" duration="651000" />
-      <workItem from="1463485606062" duration="200000" />
+      <workItem from="1463485606062" duration="237000" />
     </task>
+    <task id="LOCAL-00001" summary="CursoJavaBasico">
+      <created>1463485843544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1463485843544</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102209000" />
+    <option name="totallyTimeSpent" value="102246000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -917,6 +925,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CursoJavaBasico" />
+    <option name="LAST_COMMIT_MESSAGE" value="CursoJavaBasico" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1282,7 +1294,7 @@
     <entry file="file://$PROJECT_DIR$/curso-java-basico/src/com/davidkestering/cursojava/aula43exercicios/ContaBancaria.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
           <folding />
         </state>
       </provider>
