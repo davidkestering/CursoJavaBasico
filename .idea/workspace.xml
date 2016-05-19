@@ -178,6 +178,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -252,7 +253,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
@@ -833,6 +833,7 @@
       <workItem from="1463484830702" duration="651000" />
       <workItem from="1463485606062" duration="14200000" />
       <workItem from="1463668509100" duration="857000" />
+      <workItem from="1463674754982" duration="87000" />
     </task>
     <task id="LOCAL-00001" summary="CursoJavaBasico">
       <created>1463485843544</created>
@@ -866,7 +867,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117066000" />
+    <option name="totallyTimeSpent" value="117153000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
