@@ -18,4 +18,5 @@ public class Quadrado extends Figura2D {
     public double calcularArea() {
         return lado*lado;
     }
+
 }

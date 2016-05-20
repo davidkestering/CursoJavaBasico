@@ -22,4 +22,22 @@ public class Cilindro extends Figura3D {
     public void setRaio(double raio) {
         this.raio = raio;
     }
+
+    public double calcularAreaBase(){
+        return Math.PI*(raio*raio);
+    }
+
+    public double calcularAreaLateral(){
+        return 2 * (Math.PI*raio*altura);
+    }
+
+    @Override
+    public double calcularArea() {
+        return (2 * calcularAreaBase()) + calcularAreaLateral();
+    }
+
+    @Override
+    public double calcularVolume() {
+        return (Math.PI*(raio*raio)*altura);
+    }
 }
